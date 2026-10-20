@@ -1,0 +1,10 @@
+{
+  "name": "mcp-image-viewer",
+  "description": "Auto-display images (QR codes, charts, etc.) returned by MCP tools. Opens in system viewer when MCP responses contain base64-encoded images.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ZzT"
+  },
+  "homepage": "https://github.com/androidZzT/mcp-image-viewer",
+  "license": "MIT"
+}
